@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/algo_academy/static/css/main.ed3da4a2.css",
+    "main.js": "/algo_academy/static/js/main.74ba7621.js",
+    "static/js/787.d7df60a6.chunk.js": "/algo_academy/static/js/787.d7df60a6.chunk.js",
+    "static/media/about-image.jpg": "/algo_academy/static/media/about-image.5469a476aa3e0fde109e.jpg",
+    "static/media/image2.png": "/algo_academy/static/media/image2.aef88bfff7d52b557b8b.png",
+    "static/media/contact-image.jpg": "/algo_academy/static/media/contact-image.2c67410807a1145c95aa.jpg",
+    "static/media/2.jpg": "/algo_academy/static/media/2.8c8545498832050d2d1c.jpg",
+    "static/media/3.jpg": "/algo_academy/static/media/3.a527eccd504d282ff44e.jpg",
+    "static/media/4.jpg": "/algo_academy/static/media/4.7210aff3b4a9687650e4.jpg",
+    "static/media/1.jpg": "/algo_academy/static/media/1.b5efd6484f3cac5d10f7.jpg",
+    "index.html": "/algo_academy/index.html",
+    "main.ed3da4a2.css.map": "/algo_academy/static/css/main.ed3da4a2.css.map",
+    "main.74ba7621.js.map": "/algo_academy/static/js/main.74ba7621.js.map",
+    "787.d7df60a6.chunk.js.map": "/algo_academy/static/js/787.d7df60a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3da4a2.css",
+    "static/js/main.74ba7621.js"
+  ]
+}
